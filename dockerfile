@@ -1,3 +1,11 @@
 docker
-# iclude .json please dont link docker file to node js files
-input (typing)
+# iclude wsad
+
+
+\
+
+
+
+
+
+file:///C:/Users/Administrator/OneDrive/Desktop/play%20to%20%20unlock%20bootloadeer/mysql.sql
